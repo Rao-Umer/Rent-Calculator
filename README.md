@@ -55,12 +55,4 @@ print("Each person has to pay:", round(per_person, 2))
  Python 3.x
 
 
-
-🎯 Future Improvements
-
- Add error handling (invalid input, zero division)
- Convert into GUI application (Tkinter)
- Add monthly expense tracking
- Build web version using Flask
-
  
